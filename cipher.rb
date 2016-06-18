@@ -27,7 +27,7 @@ def caesar_cipher(string, shift)
 
   string = arr.join
   puts string
-end
+endgit
 
 caesar_cipher("Test String!", 3)
 caesar_cipher("Hail Caesar", 7)
